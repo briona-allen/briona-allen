@@ -1,9 +1,8 @@
 <h1>Hi, I'm Briona! <br/><a href="https://github.com/briona-allen"> Cloud Engineer</a>, <a href="https://www.linkedin.com/in/briona-allen-/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cloud AWS Projects:</h2>
+<h2>👨‍💻 Cloud AWS and Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -28,12 +27,9 @@
 
 <h2> 🤳 Linux and Networking:</h2>
 
-- <b>Linux Admin Task</b>
-  - [Setting Up a LAMP server](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>NAS Server</b>
-  - [Deploy a NAS Server](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-- <b>Cloud</b>
-  - [Deploy my own cloud](https://github.com/joshmadakor1/Sentinel-Lab)
+- [Setting Up a LAMP server](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Deploy a NAS Server](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- [Deploy my own cloud](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <!--
 **briona-allen/briona-allen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
